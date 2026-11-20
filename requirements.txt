@@ -1,0 +1,4 @@
+# Runtime environment: Python 3.11 or 3.12 (tested with 3.12).
+numpy==2.2.6
+scipy==1.17.1
+shapely==2.0.6
